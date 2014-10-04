@@ -1,0 +1,116 @@
+OBJECTID,VALUE,COUNT,CLASSNAME
+3,3182,1301,Introduced Upland Vegetation-Perennial Grassland and Forbland
+5,3186,37074,Introduced Upland Vegetation-Shrub
+6,3187,6328,Introduced Upland Vegetation-Treed
+7,3191,791114,Recently Logged-Herb and Grass Cover
+8,3195,522899,Recently Burned-Herb and Grass Cover
+9,3199,2183,Introduced Herbaceous Wetland
+12,3249,2502248,Atlantic Coastal Plain Peatland Pocosin and Canebrake Shrubland
+13,3274,2804,Central Interior and Appalachian Floodplain Herbaceous
+14,3275,12235,Central Interior and Appalachian Floodplain Shrubland
+16,3292,1831504,Open Water
+17,3294,296393,Barren
+18,3295,70029,Quarries-Strip Mines-Gravel Pits
+19,3296,1259583,Developed-Low Intensity
+20,3297,403113,Developed-Medium Intensity
+21,3298,145610,Developed-High Intensity
+22,3299,3420807,Developed-Roads
+23,3300,6508,Central Interior and Appalachian Riparian Herbaceous
+26,3315,3,Southern Appalachian Oak Forest
+27,3316,3066006,Southern Piedmont Mesic Forest
+29,3318,7,Southern and Central Appalachian Cove Forest
+30,3319,24814,Central Interior and Appalachian Riparian Shrubland
+33,3324,7892,Northern Atlantic Coastal Plain Hardwood Forest
+34,3332,146155,Gulf and Atlantic Coastal Plain Floodplain Herbaceous
+35,3335,1628840,Southern Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest
+37,3342,100390,Piedmont Hardpan Woodland and Forest
+38,3343,5442580,Southern Atlantic Coastal Plain Mesic Hardwood Forest
+39,3346,2164496,Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland
+40,3347,1164440,Atlantic Coastal Plain Upland Longleaf Pine Woodland
+42,3351,55116,Southeastern Interior Longleaf Pine Woodland
+44,3353,78868,Southern Appalachian Low-Elevation Pine Forest
+45,3357,21039,Southern Coastal Plain Mesic Slope Forest
+46,3359,138130,Gulf and Atlantic Coastal Plain Floodplain Shrubland
+47,3361,99359,Central Atlantic Coastal Plain Maritime Forest
+48,3368,1322740,Southern Piedmont Dry Pine Forest
+50,3370,119,Appalachian Hemlock Forest
+55,3382,59902,Southern Atlantic Coastal Plain Maritime Forest
+56,3396,81523,Gulf and Atlantic Coastal Plain Tidal Marsh Herbaceous
+57,3400,2450,Central Appalachian Alkaline Glade and Woodland
+58,3406,4505614,Southern Piedmont Dry Oak Forest
+61,3426,1407,Southern Atlantic Coastal Plain Dune and Maritime Grassland
+63,3448,482840,Southern Piedmont Dry Oak-Pine Forest
+64,3449,3340216,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods
+65,3450,30,Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods
+66,3452,266083,Atlantic Coastal Plain Peatland Pocosin and Canebrake Woodland
+67,3459,28913,Atlantic Coastal Plain Clay-Based Carolina Bay Wetland
+69,3468,654823,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall
+70,3471,225071,Central Interior and Appalachian Floodplain Forest
+71,3472,372533,Central Interior and Appalachian Riparian Forest
+72,3473,3736048,Gulf and Atlantic Coastal Plain Floodplain Forest
+73,3474,3007026,Gulf and Atlantic Coastal Plain Small Stream Riparian Woodland
+74,3479,11,Central Interior and Appalachian Swamp Forest
+75,3480,742474,Gulf and Atlantic Coastal Plain Swamp Systems
+76,3490,66714,Gulf and Atlantic Coastal Plain Tidal Marsh Shrubland
+78,3498,63,Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems
+79,3501,863138,Southern Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest
+81,3511,65,Appalachian Northern Hardwood Forest
+82,3512,14,Appalachian Hemlock-Northern Hardwood Forest
+84,3528,2,Ruderal Upland Shrubland
+86,3532,309195,Ruderal Forest-Northern and Central Hardwood and Conifer
+87,3533,2333127,Ruderal Forest-Southeast Hardwood and Conifer
+88,3534,378,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group
+89,3535,10209164,Managed Tree Plantation-Southeast Conifer and Hardwood Plantation Group
+93,3569,15033,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Shrubland
+94,3573,70807,Gulf and Atlantic Coastal Plain Small Stream Riparian Herbaceous
+95,3574,164040,Gulf and Atlantic Coastal Plain Small Stream Riparian Shrubland
+96,3905,139199,Eastern Cool Temperate Urban Deciduous Forest
+97,3906,301916,Eastern Cool Temperate Urban Evergreen Forest
+98,3907,186769,Eastern Cool Temperate Urban Mixed Forest
+99,3908,879057,Eastern Cool Temperate Urban Herbaceous
+100,3909,218065,Eastern Cool Temperate Urban Shrubland
+101,3915,19851,Eastern Warm Temperate Urban Urban Deciduous Forest
+102,3916,88416,Eastern Warm Temperate Urban Urban Evergreen Forest
+103,3917,28246,Eastern Warm Temperate Urban Urban Mixed Forest
+104,3918,356041,Eastern Warm Temperate Urban Urban Herbaceous
+105,3919,138498,Eastern Warm Temperate Urban Urban Shrubland
+106,3930,190178,Eastern Cool Temperate Developed Ruderal Deciduous Forest
+107,3931,145336,Eastern Cool Temperate Developed Ruderal Evergreen Forest
+108,3932,4097,Eastern Cool Temperate Developed Ruderal Mixed Forest
+109,3933,678271,Eastern Cool Temperate Developed Ruderal Shrubland
+110,3934,1796961,Eastern Cool Temperate Developed Ruderal Grassland
+111,3935,8220,Eastern Warm Temperate Developed Ruderal Deciduous Forest
+112,3936,119971,Eastern Warm Temperate Developed Ruderal Evergreen Forest
+113,3937,1337,Eastern Warm Temperate Developed Ruderal Mixed Forest
+114,3938,541978,Eastern Warm Temperate Developed Ruderal Shrubland
+115,3939,468136,Eastern Warm Temperate Developed Ruderal Grassland
+116,3950,2389,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest
+117,3951,5434,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest
+118,3952,28,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest
+119,3953,9471,Eastern Cool Temperate Undeveloped Ruderal Shrubland
+120,3954,13909,Eastern Cool Temperate Undeveloped Ruderal Grassland
+121,3955,95,Eastern Warm Temperate Undeveloped Ruderal Deciduous Forest
+122,3956,1792,Eastern Warm Temperate Undeveloped Ruderal Evergreen Forest
+123,3957,14,Eastern Warm Temperate Undeveloped Ruderal Mixed Forest
+124,3958,13960,Eastern Warm Temperate Undeveloped Ruderal Shrubland
+125,3959,7797,Eastern Warm Temperate Undeveloped Ruderal Grassland
+126,3970,670,Eastern Cool Temperate Orchard
+127,3971,94,Eastern Cool Temperate Vineyard
+128,3972,414,Eastern Cool Temperate Bush fruit and berries
+129,3973,25624,Eastern Cool Temperate Row Crop - Close Grown Crop
+130,3974,7060321,Eastern Cool Temperate Row Crop
+131,3975,1385448,Eastern Cool Temperate Close Grown Crop
+132,3976,948661,Eastern Cool Temperate Fallow/Idle Cropland
+133,3977,3291380,Eastern Cool Temperate Pasture and Hayland
+134,3978,75337,Eastern Cool Temperate Wheat
+135,3979,648,Eastern Cool Temperate Aquaculture
+136,3990,1142,Eastern Warm Temperate Orchard
+137,3991,78,Eastern Warm Temperate Vineyard
+138,3992,1845,Eastern Warm Temperate Bush fruit and berries
+139,3993,6399,Eastern Warm Temperate Row Crop - Close Grown Crop
+140,3994,2952437,Eastern Warm Temperate Row Crop
+141,3995,449426,Eastern Warm Temperate Close Grown Crop
+142,3996,320612,Eastern Warm Temperate Fallow/Idle Cropland
+143,3997,442417,Eastern Warm Temperate Pasture and Hayland
+144,3998,6615,Eastern Warm Temperate Wheat
+145,3999,1907,Eastern Warm Temperate Aquaculture
