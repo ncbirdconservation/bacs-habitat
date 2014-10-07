@@ -122,8 +122,6 @@ def main():
 		# key = 3195
 		hab_headers.append(str(key))
 		print str(hab_headers)
-		# lfhab = "lf" + str(key)
-		# lfhabbin = "lf" + str(key) + "bin"
 		lfhabfocal = "lf" + str(key) + "focal"
 		print nl + "-------------------------------------------------------------------------------" + nl + "processing " + habitats[key] + nl + " (#" + str(key) + " - " + str(counter) + " of " + str(numhab) + ")"+ nl
 
