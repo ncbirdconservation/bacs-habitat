@@ -18,3 +18,5 @@ Habitat analysis of NC Bachman's Sparrow occurrence data using ArcGIS geopspatia
   - TNC "connectedness"
   - LiDAR canopy structure measures
 - Run analysis on occupancy probability rather than binary detection data
+
+*keywords:* North Carolina, Peucaea aestivalis, Bachman's sparrow, NC, NC Wildlife Resources Commission
