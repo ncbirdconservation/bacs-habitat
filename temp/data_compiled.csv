@@ -1,0 +1,116 @@
+hab_count,bacs_obs,nodet,random,zeros,habitat
+3991,0,0,0,0,Eastern Warm Temperate Vineyard
+3426,0,0,0,0,Southern Atlantic Coastal Plain Dune and Maritime Grassland
+3992,0,0.00286944,0,0.00286944,Eastern Warm Temperate Bush fruit and berries
+3182,0,0,0,0,Introduced Upland Vegetation-Perennial Grassland and Forbland
+3993,0,0.00143472,0,0.00143472,Eastern Warm Temperate Row Crop - Close Grown Crop
+3186,0,0.017216643,0.10989011,0.127106753,Introduced Upland Vegetation-Shrub
+3187,0,0.00286944,0.005494505,0.008363946,Introduced Upland Vegetation-Treed
+3191,0.021978022,0.258249641,0.527472527,0.807700191,Recently Logged-Herb and Grass Cover
+3195,1.302197802,1.034433286,0.516483516,2.853114604,Recently Burned-Herb and Grass Cover
+3199,0,0,0,0,Introduced Herbaceous Wetland
+3249,1.615384615,0.760401722,1.071428571,3.447214908,Atlantic Coastal Plain Peatland Pocosin and Canebrake Shrubland
+3274,0,0,0,0,Central Interior and Appalachian Floodplain Herbaceous
+3275,0,0,0,0,Central Interior and Appalachian Floodplain Shrubland
+3292,0.148351648,0.276901004,1.423076923,1.848329576,Open Water
+3294,0.335164835,0.094691535,0.324175824,0.754032194,Barren
+3295,0,0,0.082417582,0.082417582,Quarries-Strip Mines-Gravel Pits
+3296,0.598901099,0.62266858,0.857142857,2.078712536,Developed-Low Intensity
+3297,0.164835165,0.110473458,0.247252747,0.52256137,Developed-Medium Intensity
+3298,0.010989011,0.047345768,0.010989011,0.06932379,Developed-High Intensity
+3299,2.741758242,2.81492109,1.879120879,7.435800211,Developed-Roads
+3300,0,0,0,0,Central Interior and Appalachian Riparian Herbaceous
+3315,0,0,0,0,Southern Appalachian Oak Forest
+3316,0,0.337159254,1.956043956,2.29320321,Southern Piedmont Mesic Forest
+3318,0,0,0,0,Southern and Central Appalachian Cove Forest
+3319,0,0.00286944,0,0.00286944,Central Interior and Appalachian Riparian Shrubland
+3324,0,0,0.005494505,0.005494505,Northern Atlantic Coastal Plain Hardwood Forest
+3332,0.005494505,0.131994261,0.027472527,0.164961294,Gulf and Atlantic Coastal Plain Floodplain Herbaceous
+3335,0.21978022,0.738880918,0.93956044,1.898221578,Southern Atlantic Coastal Plain Dry and Dry-Mesic Oak Forest
+3342,0,0.005738881,0.038461538,0.044200419,Piedmont Hardpan Woodland and Forest
+3343,0.945054945,1.856527977,3.06043956,5.862022483,Southern Atlantic Coastal Plain Mesic Hardwood Forest
+3346,22.78021978,11.79770445,2.263736264,36.84166049,Atlantic Coastal Plain Fall-line Sandhills Longleaf Pine Woodland
+3347,1.587912088,1.12482066,0.494505495,3.207238242,Atlantic Coastal Plain Upland Longleaf Pine Woodland
+3351,0,0.054519369,0.142857143,0.197376512,Southeastern Interior Longleaf Pine Woodland
+3353,0,0.00143472,0.010989011,0.012423731,Southern Appalachian Low-Elevation Pine Forest
+3357,0,0,0.027472527,0.027472527,Southern Coastal Plain Mesic Slope Forest
+3359,0,0.094691535,0.049450549,0.144142085,Gulf and Atlantic Coastal Plain Floodplain Shrubland
+3361,0.087912088,0.005738881,0.06043956,0.154090529,Central Atlantic Coastal Plain Maritime Forest
+3368,0,0.407460545,0.862637363,1.270097908,Southern Piedmont Dry Pine Forest
+3370,0,0,0,0,Appalachian Hemlock Forest
+3382,0.021978022,0.017216643,0.010989011,0.050183676,Southern Atlantic Coastal Plain Maritime Forest
+3905,0,0.010043042,0.043956044,0.053999086,Eastern Cool Temperate Urban Deciduous Forest
+3906,0,0.067431851,0.164835165,0.232267016,Eastern Cool Temperate Urban Evergreen Forest
+3907,0,0.015781923,0.120879121,0.136661043,Eastern Cool Temperate Urban Mixed Forest
+3908,0.120879121,0.215208034,0.626373626,0.962460782,Eastern Cool Temperate Urban Herbaceous
+3909,0.027472527,0.06456241,0.214285714,0.306320652,Eastern Cool Temperate Urban Shrubland
+3400,0,0,0,0,Central Appalachian Alkaline Glade and Woodland
+3915,0.005494505,0.010043042,0,0.015537547,Eastern Warm Temperate Urban Urban Deciduous Forest
+3916,0.230769231,0.154949785,0.043956044,0.42967506,Eastern Warm Temperate Urban Urban Evergreen Forest
+3917,0.005494505,0.020086083,0.010989011,0.0365696,Eastern Warm Temperate Urban Urban Mixed Forest
+3918,0.489010989,0.473457676,0.203296703,1.165765368,Eastern Warm Temperate Urban Urban Herbaceous
+3919,0.335164835,0.241032999,0.087912088,0.664109922,Eastern Warm Temperate Urban Urban Shrubland
+3930,0,0.024390244,0.071428571,0.095818815,Eastern Cool Temperate Developed Ruderal Deciduous Forest
+3931,0.005494505,0.087517934,0.027472527,0.120484967,Eastern Cool Temperate Developed Ruderal Evergreen Forest
+3932,0,0.00143472,0,0.00143472,Eastern Cool Temperate Developed Ruderal Mixed Forest
+3933,0.054945055,0.169296987,0.175824176,0.400066218,Eastern Cool Temperate Developed Ruderal Shrubland
+3934,0.313186813,0.212338594,1.049450549,1.574975957,Eastern Cool Temperate Developed Ruderal Grassland
+3935,0,0.011477762,0.005494505,0.016972267,Eastern Warm Temperate Developed Ruderal Deciduous Forest
+3936,0.016483516,0.166427547,0.032967033,0.215878096,Eastern Warm Temperate Developed Ruderal Evergreen Forest
+3937,0,0,0,0,Eastern Warm Temperate Developed Ruderal Mixed Forest
+3938,0.406593407,0.398852224,0.274725275,1.080170905,Eastern Warm Temperate Developed Ruderal Shrubland
+3939,1.087912088,0.919655667,0.527472527,2.535040283,Eastern Warm Temperate Developed Ruderal Grassland
+3950,0,0,0,0,Eastern Cool Temperate Undeveloped Ruderal Deciduous Forest
+3951,0,0,0,0,Eastern Cool Temperate Undeveloped Ruderal Evergreen Forest
+3952,0,0,0,0,Eastern Cool Temperate Undeveloped Ruderal Mixed Forest
+3953,0,0.005738881,0,0.005738881,Eastern Cool Temperate Undeveloped Ruderal Shrubland
+3954,0,0.005738881,0.005494505,0.011233386,Eastern Cool Temperate Undeveloped Ruderal Grassland
+3955,0,0,0,0,Eastern Warm Temperate Undeveloped Ruderal Deciduous Forest
+3956,0,0.00143472,0,0.00143472,Eastern Warm Temperate Undeveloped Ruderal Evergreen Forest
+3957,0,0,0,0,Eastern Warm Temperate Undeveloped Ruderal Mixed Forest
+3958,0.071428571,0.044476327,0,0.115904899,Eastern Warm Temperate Undeveloped Ruderal Shrubland
+3959,0.087912088,0.014347202,0,0.10225929,Eastern Warm Temperate Undeveloped Ruderal Grassland
+3448,0,0.034433286,0.302197802,0.336631088,Southern Piedmont Dry Oak-Pine Forest
+3449,2.252747253,3.010043042,2.478021978,7.740812272,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Flatwoods
+3450,0,0,0,0,Southern Atlantic Coastal Plain Wet Pine Savanna and Flatwoods
+3452,0.126373626,0.262553802,0.10989011,0.498817538,Atlantic Coastal Plain Peatland Pocosin and Canebrake Woodland
+3970,0.021978022,0,0,0.021978022,Eastern Cool Temperate Orchard
+3459,0,0.031563845,0.005494505,0.037058351,Atlantic Coastal Plain Clay-Based Carolina Bay Wetland
+3972,0,0.00143472,0,0.00143472,Eastern Cool Temperate Bush fruit and berries
+3973,0,0,0,0,Eastern Cool Temperate Row Crop - Close Grown Crop
+3974,1,1.724533716,3.626373626,6.350907342,Eastern Cool Temperate Row Crop
+3975,0.027472527,0.101865136,0.879120879,1.008458543,Eastern Cool Temperate Close Grown Crop
+3976,0.186813187,0.263988522,0.516483516,0.967285226,Eastern Cool Temperate Fallow/Idle Cropland
+3977,0.098901099,0.190817791,1.703296703,1.993015593,Eastern Cool Temperate Pasture and Hayland
+3978,0,0.004304161,0.010989011,0.015293172,Eastern Cool Temperate Wheat
+3979,0,0,0,0,Eastern Cool Temperate Aquaculture
+3468,1.038461538,1.340028694,0.362637363,2.741127596,Atlantic Coastal Plain Streamhead Seepage Swamp-Pocosin-Baygall
+3471,0,0.025824964,0.340659341,0.366484305,Central Interior and Appalachian Floodplain Forest
+3472,0,0.06456241,0.115384615,0.179947026,Central Interior and Appalachian Riparian Forest
+3473,0.846153846,2.179340029,1.126373626,4.151867501,Gulf and Atlantic Coastal Plain Floodplain Forest
+3474,0.983516484,2.050215208,1.763736264,4.797467955,Gulf and Atlantic Coastal Plain Small Stream Riparian Woodland
+3990,0,0,0,0,Eastern Warm Temperate Orchard
+3479,0,0,0,0,Central Interior and Appalachian Swamp Forest
+3480,0.082417582,0.131994261,0.379120879,0.593532723,Gulf and Atlantic Coastal Plain Swamp Systems
+3396,0.005494505,0.00143472,0.038461538,0.045390764,Gulf and Atlantic Coastal Plain Tidal Marsh Herbaceous
+3994,0.626373626,2,1.478021978,4.104395604,Eastern Warm Temperate Row Crop
+3995,0.093406593,0.087517934,0.32967033,0.510594857,Eastern Warm Temperate Close Grown Crop
+3996,0.252747253,0.385939742,0.104395604,0.743082599,Eastern Warm Temperate Fallow/Idle Cropland
+3997,0.236263736,0.197991392,0.230769231,0.665024359,Eastern Warm Temperate Pasture and Hayland
+3998,0,0.012912482,0,0.012912482,Eastern Warm Temperate Wheat
+3999,0,0,0,0,Eastern Warm Temperate Aquaculture
+3490,0,0.00143472,0.038461538,0.039896259,Gulf and Atlantic Coastal Plain Tidal Marsh Shrubland
+3498,0,0,0,0,Gulf and Atlantic Coastal Plain Sparsely Vegetated Systems
+3501,0,0.005738881,0.395604396,0.401343277,Southern Atlantic Coastal Plain Nonriverine Swamp and Wet Hardwood Forest
+3511,0,0,0,0,Appalachian Northern Hardwood Forest
+3512,0,0,0,0,Appalachian Hemlock-Northern Hardwood Forest
+3528,0,0,0,0,Ruderal Upland Shrubland
+3532,0,0,0.302197802,0.302197802,Ruderal Forest-Northern and Central Hardwood and Conifer
+3533,0,0.611190818,1.21978022,1.830971038,Ruderal Forest-Southeast Hardwood and Conifer
+3534,0,0,0,0,Managed Tree Plantation-Northern and Central Hardwood and Conifer Plantation Group
+3535,1.604395604,5.398852224,7.016483516,14.01973134,Managed Tree Plantation-Southeast Conifer and Hardwood Plantation Group
+3406,0,0.289813486,3.230769231,3.520582717,Southern Piedmont Dry Oak Forest
+3971,0,0,0,0,Eastern Cool Temperate Vineyard
+3569,0.005494505,0.008608321,0.049450549,0.063553376,Central Atlantic Coastal Plain Wet Longleaf Pine Savanna and Shrubland
+3573,0.153846154,0.045911047,0.005494505,0.205251707,Gulf and Atlantic Coastal Plain Small Stream Riparian Herbaceous
+3574,0.010989011,0.137733142,0.142857143,0.291579296,Gulf and Atlantic Coastal Plain Small Stream Riparian Shrubland
